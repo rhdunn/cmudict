@@ -18,7 +18,7 @@ We welcome input from users: Please send email to Alex Rudnicky
 (air+cmudict@cs.cmu.edu).
 
 The Carnegie Mellon Pronouncing Dictionary, in its current and
-previous versions is Copyright (C) 1993-2008 by Carnegie Mellon
+previous versions is Copyright (C) 1993-2014 by Carnegie Mellon
 University.  Use of this dictionary for any research or commercial
 purpose is completely unrestricted.  If you make use of or
 redistribute this material we request that you acknowledge its
@@ -30,7 +30,15 @@ and corrections to us (air+cmudict@cs.cmu.edu) for consideration in a
 subsequent version. All submissions will be reviewed and approved by
 the current maintainer, Alex Rudnicky at Carnegie Mellon.
 
-------------------------------------------------------------------
-The current version of cmudict is cmudict.0.7a 
-[First released October 29, 2007]
+---------------------------------------------------------------------
+The current version of cmudict is now cmudict-0.7b 
+[First released Novembe19, 2014]
 
+
+cmudict-0.7b includes various fixes and some additional words.  As
+always please let me know if you see a problem or want to suggest a
+word.  Note that the first '.' in the file name has changed to a '-'.
+It was observed that Windows occasionally gets confused about the
+extension.
+
+---------------------------------------------------------------------
