@@ -32,7 +32,7 @@ the current maintainer, Alex Rudnicky at Carnegie Mellon.
 
 ---------------------------------------------------------------------
 The current version of cmudict is now cmudict-0.7b 
-[First released Novembe19, 2014]
+[First released November 19, 2014]
 
 
 cmudict-0.7b includes various fixes and some additional words.  As
