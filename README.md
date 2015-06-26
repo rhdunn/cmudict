@@ -1,4 +1,4 @@
-# CMU Pronunciation Dictionary 0.3
+# CMU Pronunciation Dictionary 0.4
 
 The [CMU Pronunciation Dictionary](cmudict) is a General American English
 pronunciation dictionary. It is used at Carnegie Mellon in their speech
@@ -52,7 +52,7 @@ and will be reintroduced once the transcriptions have been verified.
 
 ## License
 
-Copyright (C) 1993-1994 Carnegie Mellon University. All rights reserved.
+Copyright (C) 1993-1995 Carnegie Mellon University. All rights reserved.
 
 Use of this dictionary for any research or commercial purpose is completely
 unrestricted.  If you make use of or redistribute this material, we would
