@@ -1,4 +1,4 @@
-# CMU Pronunciation Dictionary 0.2
+# CMU Pronunciation Dictionary 0.3
 
 The [CMU Pronunciation Dictionary](cmudict) is a General American English
 pronunciation dictionary. It is used at Carnegie Mellon in their speech
