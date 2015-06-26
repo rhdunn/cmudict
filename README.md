@@ -39,15 +39,17 @@ a combination thereof. We have removed some potentially unreliable
 transcriptions from this dictionary, including those based on only one
 source, and will reintroduce them once we have verified the transcriptions.
 
-CMU does not guarantee the accuracy of this dictionary, nor its suitablity
-for any specific purpose. In fact, we expect a number of errors, omissions
-and inconsistencies to remain in the current result. We intend to
-continually update the dictionary as we make progress in correcting them.
+The Carnegie Mellon Speech Group does not guarantee the accuracy of this
+dictionary, nor its suitability for any specific purpose. In fact, we
+expect a number of errors, omissions and inconsistencies to remain in the
+dictionary. We intend to continually update the dictionary by correction
+existing entries and by adding new ones. From time to time a new major
+version will be released.
 
-If you add words to or correct words in this dictionary, we would like
-the additions and corrections sent to [us](weide@cs.cmu.edu) for consideration
-in a subsequent version. All final entries will be approved by Robert L.
-Weide, editor of the dictionary.
+If you add words to or correct words in your version of this dictionary,
+we would appreciate it if you could send these additions and corrections
+to [us](weide@cs.cmu.edu) for consideration in a subsequent version. All
+final entries will be approved by Robert L. Weide, editor of the dictionary.
 
 ## License
 
