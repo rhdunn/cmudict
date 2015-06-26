@@ -2,27 +2,26 @@
 
 The [CMU Pronunciation Dictionary](cmudict) is a General American English
 pronunciation dictionary. It is used at Carnegie Mellon in their speech
-understanding systems.
-
-The phone set for cmudict contains 39 phones, a list of which can be found in
-[phoneset](phoneset).
+understanding systems. The phone set for the dictionary contains 39 phones,
+which can be found in [phoneset](phoneset) along with example usage.
 
 The Carnegie Mellon Speech Group does not guarantee the accuracy of this
-dictionary, nor its suitability for any specific purpose. In fact, we
-expect a number of errors, omissions and inconsistencies to remain in the
-dictionary. We intend to continually update the dictionary by correction
-existing entries and by adding new ones. From time to time a new major
-version will be released.
+dictionary, nor its suitability for any specific purpose. In fact, a number
+of errors, omissions and inconsistencies are expected to remain in the
+dictionary. The dictionary is intended to be continually updated by
+correcting existing entries and by adding new ones. From time to time a
+new major version will be released.
 
 If you add words to or correct words in your version of this dictionary,
-we would appreciate it if you could send these additions and corrections
-to [us](weide@cs.cmu.edu) for consideration in a subsequent version. All
-final entries will be approved by Robert L. Weide, editor of the dictionary.
+the Carnegie Mellon Speech Group would appreciate it if you could send
+these additions and corrections to [Robert L. Weide](weide@cs.cmu.edu)
+for consideration in a subsequent version. All final entries will be
+approved by Robert L. Weide, editor of the dictionary.
 
 ## Dictionary Construction
 
-Carnegie Mellon generated this dictionary using the following independent
-sources:
+The Carnegie Mellon Speech Group generated this dictionary using the
+following independent sources:
 
  * a 20k+ general English dictionary, built by hand at Carnegie Mellon
   (extensively proofed and used).
@@ -36,10 +35,10 @@ All entries that occur solely in copyrighted sources, like the Dragon
 dictionary, are not currently included in this dictionary.
 
 All of the above sources were preprocessed and the transcriptions in the
-current cmudict were selected from the transcriptions in the sources or
-a combination thereof. We have removed some potentially unreliable
-transcriptions from this dictionary, including those based on only one
-source, and will reintroduce them once we have verified the transcriptions.
+current cmudict were selected from the transcriptions in the sources or a
+combination thereof. Some potentially unreliable transcriptions have been
+removed from this dictionary, including those based on only one source,
+and will be reintroduced once the transcriptions have been verified.
 
 ## License
 
