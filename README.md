@@ -7,6 +7,20 @@ understanding systems.
 The phone set for cmudict contains 39 phones, a list of which can be found in
 [phoneset](phoneset).
 
+The Carnegie Mellon Speech Group does not guarantee the accuracy of this
+dictionary, nor its suitability for any specific purpose. In fact, we
+expect a number of errors, omissions and inconsistencies to remain in the
+dictionary. We intend to continually update the dictionary by correction
+existing entries and by adding new ones. From time to time a new major
+version will be released.
+
+If you add words to or correct words in your version of this dictionary,
+we would appreciate it if you could send these additions and corrections
+to [us](weide@cs.cmu.edu) for consideration in a subsequent version. All
+final entries will be approved by Robert L. Weide, editor of the dictionary.
+
+## Dictionary Construction
+
 Carnegie Mellon generated this dictionary using the following independent
 sources:
 
@@ -19,28 +33,13 @@ sources:
  * a 200k dictionary generated with Mitalk, unproofed.
 
 All entries that occur solely in copyrighted sources, like the Dragon
-dictionary, are not currently included in this dictionary. If you have
-words and transcriptions that you would like included in this unrestricted
-resource, please send them to [Robert L. Weide](weide@cs.cmu.edu) and we
-will consider them for an upcoming version.
+dictionary, are not currently included in this dictionary.
 
 All of the above sources were preprocessed and the transcriptions in the
 current cmudict were selected from the transcriptions in the sources or
 a combination thereof. We have removed some potentially unreliable
 transcriptions from this dictionary, including those based on only one
 source, and will reintroduce them once we have verified the transcriptions.
-
-The Carnegie Mellon Speech Group does not guarantee the accuracy of this
-dictionary, nor its suitability for any specific purpose. In fact, we
-expect a number of errors, omissions and inconsistencies to remain in the
-dictionary. We intend to continually update the dictionary by correction
-existing entries and by adding new ones. From time to time a new major
-version will be released.
-
-If you add words to or correct words in your version of this dictionary,
-we would appreciate it if you could send these additions and corrections
-to [us](weide@cs.cmu.edu) for consideration in a subsequent version. All
-final entries will be approved by Robert L. Weide, editor of the dictionary.
 
 ## License
 
