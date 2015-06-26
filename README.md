@@ -11,6 +11,7 @@ Using John Wells' lexical sets, it has the following mergers:
  *  PALM-LOT
  *  STRUT-COMMA
  *  THOUGHT-CLOTH
+ *  NORTH-FORCE
  *  NURSE-LETTER
  *  FLEECE-HAPPY
 
