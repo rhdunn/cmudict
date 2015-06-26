@@ -7,15 +7,6 @@ understanding systems.
 The phone set for cmudict contains 39 phones, a list of which can be found in
 [phoneset](phoneset).
 
-Lexical stress is indicated by means of a numeral \[012\] attached to a vowel:
-
- * `0` = no stress
- * `1` = primary stress
- * `2` = secondary stress
-
-Alternate transcriptions are identified with a numeral in parentheses as
-part of the lexical entry.
-
 Carnegie Mellon generated this dictionary using the following independent
 sources:
 
