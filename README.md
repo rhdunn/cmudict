@@ -1,12 +1,8 @@
-# CMU Pronunciation Dictionary 0.7
+# CMU Pronunciation Dictionary 0.7a
 
 The [CMU Pronunciation Dictionary](cmudict) is a General American English
 pronunciation dictionary, suitable for uses in speech technology maintained
 by the Speech Group at Carnegie Mellon University.
-
-__NOTE:__ The original 0.7 version of the cmudict was not publically released.
-This is the first public release since 0.6d, incorporating changes from that
-version along with additional corrections and additions.
 
 Using John Wells' lexical sets, it has the following mergers:
 
@@ -33,8 +29,7 @@ approved by the current maintainer, Alex Rudnicky at Carnegie Mellon.
 
 ## License
 
-Copyright (C) 1993-2008 Carnegie Mellon University. All rights reserved.
+Copyright (C) 1993-2014 Carnegie Mellon University. All rights reserved.
 
-Use of this dictionary for any research or commercial purpose is completely
-unrestricted.  If you make use of or redistribute this material, we would
-appreciate acknowlegement of its origin.
+The CMU Pronunciation Dictionary is released under a [2-clause BSD](COPYING)
+license.
