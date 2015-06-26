@@ -5,6 +5,15 @@ pronunciation dictionary. It is used at Carnegie Mellon in their speech
 understanding systems. The phone set for the dictionary contains 39 phones,
 which can be found in [phoneset](phoneset) along with example usage.
 
+Using John Wells' lexical sets, it has the following mergers:
+
+ *  TRAP-BATH
+ *  PALM-LOT
+ *  STRUT-COMMA
+ *  THOUGHT-CLOTH
+ *  NURSE-LETTER
+ *  FLEECE-HAPPY
+
 The Carnegie Mellon Speech Group does not guarantee the accuracy of this
 dictionary, nor its suitability for any specific purpose. In fact, a number
 of errors, omissions and inconsistencies are expected to remain in the
