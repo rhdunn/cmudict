@@ -1,8 +1,12 @@
-# CMU Pronunciation Dictionary 0.6d
+# CMU Pronunciation Dictionary 0.7
 
 The [CMU Pronunciation Dictionary](cmudict) is a General American English
 pronunciation dictionary, suitable for uses in speech technology maintained
 by the Speech Group at Carnegie Mellon University.
+
+__NOTE:__ The original 0.7 version of the cmudict was not publically released.
+This is the first public release since 0.6d, incorporating changes from that
+version along with additional corrections and additions.
 
 Using John Wells' lexical sets, it has the following mergers:
 

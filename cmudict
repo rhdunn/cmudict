@@ -1,5 +1,9 @@
 ;;;@@ accent=en-US encoding=utf-8 format=cmudict order-from=1 phoneset=cmu sorting=weide @@
-;;; CMU Pronunciation Dictionary 0.6d
+;;; CMU Pronunciation Dictionary 0.7
+;;;
+;;; NOTE: The original 0.7 version of the cmudict was not publically released.
+;;; This is the first public release since 0.6d, incorporating changes from
+;;; that version along with additional corrections and additions.
 ;;;
 ;;; Copyright (C) 1993-2008 Carnegie Mellon University. All rights reserved.
 ;;;
